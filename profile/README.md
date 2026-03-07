@@ -1,58 +1,88 @@
-# TEHNIKI — Ambitious Development Team
+# TEHNIKI
 
-We transform complex technical challenges into simple, robust, and scalable production solutions. No fluff, just battle-tested engineering.
+Engineering studio for Telegram products, backend platforms, real-time systems, and infrastructure-heavy delivery.
 
-🔥 **Core expertise:** Web3 & TON Ecosystem · High-load Systems · Telegram Mini Apps · Real-time Infrastructure
-🌍 **Remote / Worldwide**
-📧 **vitalivo@gmail.com**
-💬 **Telegram: [@vitalivo](https://t.me/vitalivo)** (fast response)
+We work on products where reliability, control, and execution discipline matter:
+Telegram bots and Mini Apps, operational platforms, billing systems, admin panels, client portals, real-time services, and custom internal tools.
 
-🚀 **What we deliver in production (not just “familiar with”)**
+We do not position ourselves as a generic outsourcing team.
+We focus on systems that need strong backend logic, clean architecture, transparent delivery, and production readiness from the start.
 
-Your challenge | Our production-grade solution
---- | ---
-**High-load Web3 Systems** | Decentralized apps (dApps) with TON Connect, high-speed NFT state sync & real-time updates.
-**Telegram Ecosystem** | Turnkey Telegram Mini Apps (TMA), bots, and custom management panels that scale.
-**Complex Engineering Tools** | High-performance physics engines (Rust) and custom CLI utilities for specific business tasks.
-**Real-time Data Processing** | Distributed scrapers, market analyzers (NFT/Crypto), and live data visualization.
-**Business Automation** | Custom CRM/ERP systems and internal admin tools designed for team performance.
+Remote / Worldwide  
+Email: `vitalivo@gmail.com`  
+Telegram: `@vitalivo`
 
-🛠 **Battle-tested tech stack**
+## Studio Focus
 
-**Backend & Core**
-Rust (Performance engines) · Python (FastAPI, Django) · Node.js · gRPC · asyncio
+- Telegram products and Mini Apps
+- Backend systems and product infrastructure
+- Real-time and event-driven services
+- Billing, admin, and operational platforms
+- Custom internal tools and automation
 
-**Blockchain & Web3**
-TON · TON Connect / Proof · NFT Architecture · Jettons
+## Engineering Stack
 
-**Real-time & Messaging**
-WebSockets · SSE · Redis Streams · Kafka
+- Python, FastAPI, Django
+- TypeScript, Node.js, React, Next.js
+- PostgreSQL, Redis, MongoDB, ClickHouse
+- Celery, Kafka, WebSockets, MQTT
+- Docker, Nginx, CI/CD, Linux, Kubernetes
+- Aiogram, Telethon, Pyrogram, Telegram Mini App SDK
 
-**Databases & Infra**
-PostgreSQL · Redis · Docker · Docker Compose · Linux · CI/CD
+When the product requires it, we also work with:
+Rust, TON / Web3 tooling, Spark, Airflow, Databricks, and Azure data services.
 
-🔥 **Featured Production Projects**
+## Selected Domains
 
-📱 **Smart Taxi Ecosystem**
-Full-stack platform with real-time driver/client matching, geolocation, and T-Bank integration. Includes automated invoicing and native chat.
+### Mobility and Operational Platforms
+Real-time systems with dispatch logic, payments, administrative control, and multi-role workflows.
 
-💎 **FragmentMap — Collaborative NFT Canvas**
-Web3 experiment on TON. Every tile is an NFT. Real-time synchronization via WebSockets with a high-performance Rust core.
-➜ [Main Developer Profile](https://github.com/vitalivo)
+### Infrastructure Products
+Platforms with node management, traffic logic, customer lifecycle automation, billing, and operational visibility.
 
-📊 **Telegram Gifts Analyzer**
-Real-time market analysis tool for Telegram NFT gifts. AI-driven evaluation and high-speed data parsing for investment tracking.
+### Telegram Commerce and Mini App UX
+Telegram-facing products where backend flow, user interaction, and conversion logic need to work as one system.
 
-🧪 **Web SandBox — Engineering Playground**
-Interactive physics sandbox with complex matter interactions. Built with Rust to handle heavy computations in the browser.
+## How We Deliver
 
-💼 **What you get when working with us**
-* **Systems that scale** horizontally without architectural debt.
-* **Full-stack transparency:** From clean UI/UX to low-level backend optimizations.
-* **Production-first delivery:** Everything is Dockerized, documented, and ready to deploy.
-* **Web3 native approach:** Deep knowledge of the TON ecosystem and smart-contract interactions.
+- production-first engineering
+- clear ownership of backend logic and system boundaries
+- Git-based delivery with visible execution stages
+- structured task flow and transparent development process
+- Dockerized environments and deployment-ready workflows
+- audit-friendly operations and maintainable architecture
+- staged execution instead of chaotic feature shipping
 
-**“We don’t just ship code — we build reliable systems that solve real business problems and scale.”**
+## What Clients Usually Need From Us
 
----
-Contact: **vitalivo@gmail.com** or Telegram **[@vitalivo](https://t.me/vitalivo)**
+- a Telegram product that has to work in production, not just in demo mode
+- a backend platform that stays manageable as the system grows
+- a control layer: admin panel, billing, logs, permissions, visibility
+- a technical team that can turn a vague product idea into a working system
+
+## Active Directions
+
+Alongside confirmed work, we are actively developing and expanding across:
+
+- AI creator tools
+- gaming-related product systems
+- analytics platforms
+- private client delivery
+
+We keep the public profile intentionally focused.
+Some of our active and client-specific systems remain private until they can be shown properly.
+
+## Working Style
+
+We prefer projects where engineering quality is part of the product itself:
+clear structure, predictable rollout, controlled changes, and visible progress.
+
+If a product needs backend discipline, operational transparency, and real production execution, that is our zone.
+
+## Contact
+
+If you are building a Telegram product, infrastructure-heavy service, operational platform, or internal system that needs serious engineering behind it, contact us at:
+
+Email: `vitalivo@gmail.com`  
+Telegram: `@vitalivo`
+
