@@ -1,42 +1,69 @@
 # Engagement Models
 
-Different products need different entry paths.
+Different systems need different entry paths.
+
+We choose the engagement model based on product maturity, delivery risk, and how clear the current system actually is.
 
 ## Developer-First
 
-Best when the backlog is clear and the system state is already understood.
+Best when the backlog is already clear and the system can be extended safely.
+
+Typical situations:
+
+- the team already understands the current architecture
+- the next implementation scope is well-defined
+- the product needs strong execution without a separate diagnosis phase
 
 What the client gets:
 
 - direct execution
 - focused implementation
-- faster start when risks are already controlled
+- faster movement on clearly defined scope
+- engineering support without unnecessary discovery overhead
 
 ## Architect-First
 
-Best when the product needs technical direction before implementation begins.
+Best when the product direction is clear, but the system shape and next technical decisions are not.
+
+Typical situations:
+
+- the product is growing, but the architecture is starting to lag behind
+- new features depend on decisions that should be made once, not improvised repeatedly
+- the team needs technical direction before scaling delivery
 
 What the client gets:
 
-- system diagnosis
-- structure for the next phase
+- architecture framing
+- system boundaries
 - clearer priorities
-- reduced design and architecture drift
+- a safer next-phase implementation path
 
 ## Audit-First
 
-Best when delivery risk is high and the current system cannot be trusted at face value.
+Best when the system is already fragile and direct implementation would create too much risk.
+
+Typical situations:
+
+- the backend became hard to change safely
+- the product outgrew the first version
+- instability, hidden dependencies, or unclear infrastructure make honest delivery impossible without diagnosis
 
 What the client gets:
 
 - technical assessment
-- problem framing
 - risk visibility
-- safer basis for phase-based execution
+- problem framing
+- a realistic first recovery or stabilization phase
 
 ## Long-Term Technical Partner
 
 Best when the product is growing continuously and needs stable engineering involvement over time.
+
+Typical situations:
+
+- the system is already live and growing
+- the team needs stable backend and architecture ownership over time
+- the product cannot be handled well through disconnected one-off tasks
 
 What the client gets:
 
