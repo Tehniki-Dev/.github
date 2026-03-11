@@ -12,10 +12,6 @@ Founding Team:
 
 - TEHNIKI founders stay close to product, delivery, and technical direction
 
-Lead engineering profile:
-
-- [github.com/vitalivo](https://github.com/vitalivo)
-
 ## What We Are Best At
 
 - end-to-end web application delivery
