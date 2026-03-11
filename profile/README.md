@@ -1,8 +1,8 @@
 # TEHNIKI
 
-Founder-led engineering studio for backend-heavy products, Telegram systems, operational platforms, and decision-support systems.
+Founder-led engineering studio for web applications, Telegram systems, operational platforms, and decision-support systems.
 
-We build systems where backend logic, product operations, control layers, analytics, and real-world execution need to work as one product.
+We build systems where frontend, backend, databases, infrastructure, deployment, product operations, and analytics need to work as one product.
 
 We are strongest when a product has already moved beyond simple feature coding and now needs structure, stability, and engineering discipline.
 
@@ -26,12 +26,23 @@ Founder / Lead Engineer:
 
 ## What We Build
 
+- end-to-end web applications
 - backend and product platforms
 - frontend and product interfaces
 - Telegram systems
 - operational systems
 - architecture and stabilization work
 - data, analytics, and optimization systems
+
+## Delivery Scope
+
+We can take web applications from MVP foundations to production delivery and ongoing support, covering:
+
+- frontend
+- backend
+- databases
+- infrastructure and deployment
+- post-launch support and system expansion
 
 ## When Clients Come to Us
 

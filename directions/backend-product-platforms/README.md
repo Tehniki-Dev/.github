@@ -1,6 +1,6 @@
 # Backend and Product Platforms
 
-We design, expand, and stabilize backend-heavy products where APIs, business logic, workflows, integrations, frontend interfaces, and operational constraints have to work as one system.
+We design, build, deploy, expand, and support web applications where frontend, backend, databases, infrastructure, APIs, workflows, integrations, and operational constraints have to work as one system.
 
 ## Best Fit
 
@@ -25,6 +25,8 @@ This direction is strongest for:
 
 - platform backend architecture
 - frontend implementation for real product flows
+- database and application data design
+- infrastructure-aware delivery
 - product workflow logic
 - account and role-based system behavior
 - integration layers
@@ -37,6 +39,8 @@ This direction is strongest for:
 - API layers
 - SaaS and client-facing product platforms
 - product interfaces tied to backend logic
+- databases and persistence layers
+- deployment-ready application environments
 - business workflow logic
 - integration-heavy services
 - billing-backed product functionality
@@ -51,6 +55,7 @@ This direction is strongest for:
 
 ## Engagement Options
 
+- MVP-to-production application delivery
 - backend delivery into an existing product
 - subsystem rebuild
 - architect-first discovery
@@ -94,7 +99,7 @@ This direction is strongest for:
 
 ## Contact
 
-If your product needs a stronger backend core or safer technical growth, contact us:
+If your product needs end-to-end web application delivery with a stronger technical core and safer growth, contact us:
 
 - Telegram: `@vitalivo`
 - Email: `vitalivo@gmail.com`

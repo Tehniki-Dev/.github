@@ -2,9 +2,9 @@
 
 ## Overview
 
-TEHNIKI is a founder-led engineering studio for backend-heavy products, Telegram systems, operational platforms, and decision-support systems.
+TEHNIKI is a founder-led engineering studio for web applications, Telegram systems, operational platforms, and decision-support systems.
 
-We work on systems where product logic, operations, analytics, control layers, and implementation discipline all matter at the same time.
+We work on systems where frontend, backend, databases, infrastructure, deployment, product logic, operations, analytics, and control layers all matter at the same time.
 
 Founder / Lead Engineer:
 
@@ -13,12 +13,25 @@ Founder / Lead Engineer:
 
 ## What We Are Best At
 
+- end-to-end web application delivery
 - backend and product platforms
 - Telegram-connected systems
 - frontend systems for real workflows
 - operational systems and internal control layers
 - architecture and stabilization work
 - analytics, reporting, and optimization systems
+
+## Delivery Scope
+
+We design, build, deploy, and support web applications from MVP foundations to production systems.
+
+Typical scope can include:
+
+- product interfaces
+- backend systems
+- databases and data layers
+- infrastructure and deployment workflows
+- phased post-launch support and expansion
 
 ## What Makes TEHNIKI Different
 
