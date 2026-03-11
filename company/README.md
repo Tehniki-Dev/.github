@@ -6,6 +6,11 @@ TEHNIKI is a founder-led engineering studio for backend-heavy products, Telegram
 
 We work on systems where product logic, operations, analytics, control layers, and implementation discipline all matter at the same time.
 
+Founder / Lead Engineer:
+
+- Vitaliy
+- GitHub: [github.com/vitalivo](https://github.com/vitalivo)
+
 ## What We Are Best At
 
 - backend and product platforms
@@ -56,5 +61,6 @@ We are strongest when entering products through:
 
 ## Contact
 
+- GitHub: [github.com/vitalivo](https://github.com/vitalivo)
 - Telegram: `@vitalivo`
 - Email: `vitalivo@gmail.com`

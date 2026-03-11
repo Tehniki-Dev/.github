@@ -18,6 +18,11 @@ TEHNIKI is a product engineering studio focused on systems with real operational
 - analytics, reporting, and optimization logic
 - architecture, recovery, and phased system growth
 
+Founder / Lead Engineer:
+
+- Vitaliy
+- GitHub: [github.com/vitalivo](https://github.com/vitalivo)
+
 ## What We Build
 
 - backend and product platforms
@@ -98,5 +103,6 @@ Telegram-facing product focused on Mini App UX, backend flow, and conversion-ori
 
 ## Contact
 
+- GitHub: [github.com/vitalivo](https://github.com/vitalivo)
 - Telegram: `@vitalivo`
 - Email: `vitalivo@gmail.com`
