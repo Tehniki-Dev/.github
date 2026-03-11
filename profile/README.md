@@ -1,232 +1,93 @@
-
 # TEHNIKI
 
-Engineering studio for product platforms, Telegram systems, backend-heavy web applications, data and analytics systems, AI and optimization systems, and infrastructure-aware delivery.
+Founder-led engineering studio for backend-heavy products, Telegram systems, operational platforms, and decision-support systems.
 
-We build products where backend logic, product interface, admin control, billing, integrations, analytics, and day-to-day operations need to work as one system.
+We build systems where backend logic, product operations, control layers, analytics, and real-world execution need to work as one product.
 
-We do not position ourselves as a generic outsourcing team.
-We focus on systems that need reliable architecture, production-ready backend foundations, frontend implementation that can carry real product logic, and structured execution from first scope to live delivery.
+We are strongest when a product has already moved beyond simple feature coding and now needs structure, stability, and engineering discipline.
 
 Remote / Worldwide
 
-## Contact
+## Who We Are
 
-- Telegram: @vitalivo
-- Email: vitalivo@gmail.com
+TEHNIKI is a product engineering studio focused on systems with real operational weight:
+
+- backend and product platforms
+- Telegram-connected systems
+- admin, billing, and control layers
+- analytics, reporting, and optimization logic
+- architecture, recovery, and phased system growth
 
 ## What We Build
 
-- backend-heavy web applications
-- Telegram bots and Mini Apps
-- SaaS products and internal platforms
-- admin panels, billing systems, and client portals
-- real-time and event-driven services
-- data platforms, analytics layers, and reporting systems
-- AI workflow systems, optimization engines, and operational automation
-- infrastructure-aware products with control layers and visibility
+- backend and product platforms
+- Telegram systems
+- operational systems
+- architecture and stabilization work
+- data, analytics, and optimization systems
 
-## Best-Fit Project Types
+## When Clients Come to Us
 
-We are a strong fit for projects such as:
+Clients usually come to us when:
 
-- product MVPs that need a serious backend from the start
-- post-MVP rebuilds where the first version has already become fragile
-- internal business systems with admin roles, permissions, workflows, and reporting
-- client-facing platforms that combine dashboards, user accounts, payments, and operational logic
-- Telegram-first products with backend APIs, Mini App UX, notifications, and support tooling
-- subscription, billing, entitlement, and customer lifecycle systems
-- analytics products with data ingestion, transformation, dashboards, and business visibility
-- decision-support systems with reporting, monitoring, operational metrics, and control panels
-- planning and optimization systems with constraints, shared resources, deadlines, and capacity limits
-- content operations platforms with approval flows, publishing, and AI-assisted generation
-- audit, refactor, stabilization, and phase-based recovery work
-- integration-heavy systems connected to CRM, payment, messaging, analytics, or external service APIs
-- products that already have UI designs or prototypes but still need strong engineering to become production systems
+- a product has outgrown the first version
+- backend logic has become fragile
+- integrations are unstable or difficult to extend
+- operations still depend on spreadsheets and manual control
+- the team needs technical direction before scaling
+- new features are blocked by system complexity
 
-## Working With Founders, Product Teams, and Designers
+## How We Engage
 
-We work especially well when one of these situations is true:
+We do not start with chaotic coding.
 
-- a founder needs structured execution, not just feature coding
-- a product team needs backend ownership plus reliable full-product delivery
-- a designer has flows or Figma screens and needs an engineering team to turn them into a working system
-- an operating business needs a control layer with admin roles, billing, logs, permissions, reporting, and support workflows
-- a team already has data but lacks a usable analytics layer for operations, management, or client reporting
-- a production or operations team needs a planning model that reflects real constraints, not abstract flowcharts
-- an existing product needs cleanup before new features can be added safely
+We usually enter through one of these formats:
 
-## Studio Focus
+- developer-first execution when scope is already clear
+- architect-first discovery when the system needs direction
+- audit-first entry when delivery risk is high
+- phased delivery for products that need controlled growth
 
-- product platforms and client-facing applications
-- backend systems and API architecture
-- frontend systems for real product workflows
-- Telegram products and Mini Apps
-- billing, admin, and operational platforms
-- data pipelines, analytics systems, and reporting layers
-- AI pipelines, optimization engines, and agent-based automation
-- internal tools and process automation
-- refactoring and stabilization of live systems
+More: [How We Work](../how-we-work/README.md) · [Engagement Models](../engagement-models/README.md)
 
-## Engineering Stack
+## Core Directions
 
-- Python, FastAPI, Django
-- TypeScript, Node.js, React, Next.js
-- PostgreSQL, Redis, MongoDB, ClickHouse
-- Celery, Kafka, WebSockets, MQTT
-- OR-Tools, planning and scheduling logic
-- Airflow, n8n, LangGraph
-- Docker, Nginx, CI/CD, Linux, Kubernetes
-- Aiogram, Telethon, Pyrogram, Telegram Mini App SDK
+### [Backend and Product Platforms](../directions/backend-product-platforms/README.md)
+Backend-heavy products, SaaS-style systems, integrations, platform logic, and delivery for products that need a serious technical core.
 
-When the product requires it, we also work with Rust, TON and Web3 tooling, Spark, Databricks, BI layers, and Azure data services.
+### [Telegram Systems](../directions/telegram-systems/README.md)
+Bots, Mini Apps, Telegram-facing workflows, commerce flows, notifications, and backend-connected Telegram products.
 
-## Data and Analytics Systems
+### [Operational Systems](../directions/operational-systems/README.md)
+Admin panels, operator dashboards, internal tools, support workflows, reporting layers, and control platforms.
 
-We build data and analytics layers for products and operations where raw events, business actions, and service data need to become usable reporting, monitoring, and decision support.
+### [Architecture and Stabilization](../directions/architecture-stabilization/README.md)
+Audits, refactoring, recovery work, live-system cleanup, and structured technical direction for overloaded products.
 
-Typical scopes include:
-
-- ingestion from product, CRM, payment, messaging, and external APIs
-- ETL and transformation pipelines
-- event collection and aggregation
-- operational dashboards and internal reporting panels
-- client-facing reporting and account visibility
-- metrics backends for retention, sales, routing, support, and performance
-- analytics modules inside admin systems and backoffice tools
-
-We treat analytics as part of product architecture, not as a disconnected reporting afterthought.
-
-## AI, Optimization, and Decision Systems
-
-We build systems where AI, optimization, and operational logic work together to support real business decisions, not just generate outputs.
-
-Typical scopes include:
-
-- planning engines with hard and soft constraints
-- production scheduling and job-shop optimization
-- resource allocation across shared machines, teams, or locations
-- decision-support tools for operations, logistics, and dispatch
-- shelf-life, deadline, routing, and capacity-aware planning models
-- AI-assisted control layers for scenario comparison and operator decisions
-- Excel exports, reporting, and Gantt-style execution views for real operations
-
-These systems matter when the model has to reflect how the operation actually works: equipment limits, maintenance windows, shared semi-finished resources, multiple shipping waves, bottlenecks, and real execution tradeoffs.
-
-## AI Systems and Automation
-
-We design and implement AI-driven systems where language models, generation APIs, business rules, and backend services work as one controlled pipeline.
-
-Typical components include:
-
-- LLM orchestration
-- multi-agent workflows
-- content generation pipelines
-- approval and moderation layers
-- prompt and identity control
-- asset and knowledge-base management
-- automated publishing and scheduling
-- evaluation and feedback loops
-
-These systems are built as modular pipelines with queues, workers, storage, explicit control points, and clear responsibility between components.
-
-## Selected Domains
-
-### Mobility and Operational Platforms
-Real-time systems with dispatch logic, payments, administrative control, and multi-role workflows.
-
-### Infrastructure Products
-Platforms with node management, traffic logic, customer lifecycle automation, billing, routing, and operational visibility.
-
-### Web Applications and Product Interfaces
-Full web products where frontend, backend, business logic, and operational control need to work as one product system.
-
-### Telegram Commerce and Mini App UX
-Telegram-facing products where user interaction, backend flow, conversion logic, and support operations need to work together.
-
-### Data Platforms and Analytics Layers
-Systems for ingestion, transformation, event processing, reporting, dashboard logic, operational visibility, and business decision support.
-
-### Industrial Planning and Optimization Systems
-Systems for production scheduling, capacity planning, shared-resource coordination, operational modeling, and decision support under real constraints.
-
-### AI Content and Automation Systems
-Pipeline-based systems for content generation, planning, asset control, moderation, approval, and automated publishing across distribution channels.
-
-### Internal Ops and Business Tools
-Admin platforms, control panels, operator dashboards, reporting systems, and workflow tools used by teams behind the product.
-
-## Example System Types
-
-- SaaS products with roles, subscriptions, admin areas, and client workspaces
-- Telegram-based platforms with real-time workflows and operational tooling
-- operator dashboards, dispatch panels, and multi-role business applications
-- analytics backends with internal dashboards, reporting layers, and operational metrics
-- planning and optimization systems with Excel outputs, reports, and execution views
-- AI-assisted content pipelines with approval and publishing workflows
-- infrastructure products with node, traffic, and customer control
-- internal CRM, support, routing, and backoffice systems
-- custom portals that combine product UX with serious backend logic
-
-## How Engagements Usually Start
-
-We usually enter projects through one of these paths:
-
-- MVP build with clear phase boundaries
-- technical audit before scope and pricing
-- refactor of an overloaded product core
-- stabilization of an already running system
-- expansion of an existing product with new backend, admin, automation, analytics, or optimization layers
-
-## How We Deliver
-
-- production-first engineering
-- clear ownership of backend logic and system boundaries
-- Git-based delivery with visible execution stages
-- structured task flow and transparent development process
-- Dockerized environments and deployment-ready workflows
-- audit-friendly operations and maintainable architecture
-- staged execution instead of chaotic feature shipping
+### [Data, Analytics, and Optimization](../directions/data-analytics-optimization/README.md)
+Operational analytics, reporting, decision-support systems, constrained planning, and optimization logic under real business constraints.
 
 ## Selected Work
 
-### Taxi Platform
+### [Taxi Platform](../case-studies/taxi-platform.md)
 Operational mobility platform with real-time matching, backend workflows, payments, dispatch logic, and administrative tooling.
 
-### VPN Platform
+### [VPN Platform](../case-studies/vpn-platform.md)
 Infrastructure-heavy product with multi-node architecture, billing, device limits, traffic logic, server operations, notifications, and customer lifecycle automation.
 
-### Fitting Room Mini App
+### [Fitting Room Mini App](../case-studies/fitting-room-mini-app.md)
 Telegram-facing product focused on Mini App UX, backend flow, and conversion-oriented user interaction.
 
-## What Clients Usually Need From Us
+## Links Deeper
 
-- a product that has already outgrown simple development and now needs cleaner architecture
-- a web application that combines interface delivery with real backend ownership
-- a Telegram product that has to work in production, not only in demo mode
-- a control layer with admin panel, permissions, billing, logs, and operational visibility
-- a data and reporting layer that turns product activity into usable decisions
-- an optimization or planning model that has to reflect real operational constraints
-- an engineering partner who can turn product complexity into structured execution
+- [Directions](../directions/README.md)
+- [How We Work](../how-we-work/README.md)
+- [Engagement Models](../engagement-models/README.md)
+- [Who We Are For](../who-we-are-for/README.md)
+- [Case Studies](../case-studies/README.md)
+- [Tenders and Enterprise Readiness](../tenders/README.md)
 
-## Active Directions
+## Contact
 
-Alongside confirmed work, we are actively developing and expanding across:
-
-- AI creator tools
-- agent-based content automation
-- gaming-related product systems
-- analytics platforms
-- data and reporting systems
-- AI-assisted planning and optimization systems
-- private client delivery
-
-We keep the public profile intentionally focused. Some active and client-specific systems remain private until they can be shown properly.
-
-## Working Style
-
-We prefer products where engineering quality is part of the product itself: clear structure, predictable rollout, controlled changes, and visible progress.
-
-If a system needs backend discipline, operational transparency, serious implementation, and frontend delivery that respects product complexity, that is our zone.
-
-If you are building a Telegram product, SaaS platform, analytics system, AI workflow system, optimization engine, internal business tool, operational dashboard, infrastructure-heavy service, or a design-led product that now needs strong engineering behind it, contact us directly.
+- Telegram: `@vitalivo`
+- Email: `vitalivo@gmail.com`
