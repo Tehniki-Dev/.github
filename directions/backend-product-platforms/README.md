@@ -2,6 +2,15 @@
 
 We design, expand, and stabilize backend-heavy products where APIs, business logic, workflows, integrations, and operational constraints have to work as one system.
 
+## Best Fit
+
+This direction is strongest for:
+
+- SaaS and platform products
+- products with a serious backend core
+- systems where integrations and internal logic are tightly coupled
+- products that need a cleaner technical foundation before scaling
+
 ## Problems We Solve
 
 - the backend grew faster than the architecture
@@ -9,6 +18,15 @@ We design, expand, and stabilize backend-heavy products where APIs, business log
 - product logic is spread across too many disconnected services
 - the first version is no longer reliable enough for growth
 - the team needs a stronger technical core before scaling
+
+## What This Direction Usually Includes
+
+- platform backend architecture
+- product workflow logic
+- account and role-based system behavior
+- integration layers
+- subscription and billing-backed functionality
+- control and support layers behind the user-facing product
 
 ## What We Build
 
@@ -19,6 +37,13 @@ We design, expand, and stabilize backend-heavy products where APIs, business log
 - integration-heavy services
 - billing-backed product functionality
 
+## Typical Buyers
+
+- founders with a growing live product
+- teams that need stronger backend ownership
+- products with fragile business logic under growth pressure
+- businesses replacing disconnected tools with a real platform
+
 ## Engagement Options
 
 - backend delivery into an existing product
@@ -26,6 +51,12 @@ We design, expand, and stabilize backend-heavy products where APIs, business log
 - architect-first discovery
 - phased product expansion
 - post-MVP backend cleanup
+
+## What This Is Not
+
+- not simple brochure websites
+- not feature-only delivery without system context
+- not a generic "fullstack on anything" offer
 
 ## Related Stack
 
@@ -47,6 +78,12 @@ We design, expand, and stabilize backend-heavy products where APIs, business log
 
 - [Taxi Platform](../../case-studies/taxi-platform.md)
 - [VPN Platform](../../case-studies/vpn-platform.md)
+
+## Related Pages
+
+- [How We Work](../../how-we-work/README.md)
+- [Engagement Models](../../engagement-models/README.md)
+- [Who We Are For](../../who-we-are-for/README.md)
 
 ## Contact
 

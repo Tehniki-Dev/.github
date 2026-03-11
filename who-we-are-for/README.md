@@ -23,3 +23,15 @@ The next phase requires stronger architecture, reporting, and operational clarit
 ### Products That Need Technical Direction
 
 The project needs real engineering judgment, not only implementation capacity.
+
+## Usually Not the Best Fit
+
+- projects that need only the cheapest short-term execution
+- tasks where system context is intentionally hidden
+- work that treats architecture and operations as irrelevant
+
+## Related Pages
+
+- [How We Work](../how-we-work/README.md)
+- [Engagement Models](../engagement-models/README.md)
+- [Directions](../directions/README.md)

@@ -14,6 +14,15 @@ Some systems need direct implementation.
 Some need technical direction first.
 Some need an audit before any honest scope can be fixed.
 
+### We align delivery with business reality
+
+We prefer to understand:
+
+- what is already live
+- what is operationally critical
+- where the current system creates risk
+- which phase actually deserves implementation first
+
 ### We prefer phased execution over blind rewrites
 
 When a live product is already under load, uncontrolled rewrites create avoidable risk.
@@ -39,3 +48,9 @@ We prefer clear scope boundaries, visible execution stages, and explicit deliver
 - we do not promise architecture blindly
 - we do not push unnecessary rewrites
 - we do not optimize for feature volume over system stability
+
+## Related Pages
+
+- [Engagement Models](../engagement-models/README.md)
+- [Who We Are For](../who-we-are-for/README.md)
+- [Tenders and Enterprise Readiness](../tenders/README.md)

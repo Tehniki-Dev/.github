@@ -50,6 +50,14 @@ We usually enter through one of these formats:
 
 More: [How We Work](../how-we-work/README.md) · [Engagement Models](../engagement-models/README.md)
 
+## Explore by Need
+
+- fragile backend or overloaded product core -> [Architecture and Stabilization](../directions/architecture-stabilization/README.md)
+- Telegram-first product or Mini App -> [Telegram Systems](../directions/telegram-systems/README.md)
+- admin panel, reporting, or control layer -> [Operational Systems](../directions/operational-systems/README.md)
+- backend-heavy SaaS or integration-driven platform -> [Backend and Product Platforms](../directions/backend-product-platforms/README.md)
+- reporting, planning, or decision support -> [Data, Analytics, and Optimization](../directions/data-analytics-optimization/README.md)
+
 ## Core Directions
 
 ### [Backend and Product Platforms](../directions/backend-product-platforms/README.md)

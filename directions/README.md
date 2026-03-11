@@ -2,6 +2,14 @@
 
 This page is the public map of TEHNIKI capabilities.
 
+## Navigate by Business Need
+
+- products that need a stronger technical core -> [Backend and Product Platforms](backend-product-platforms/README.md)
+- Telegram-facing products and Mini Apps -> [Telegram Systems](telegram-systems/README.md)
+- internal control, admin, and operator workflows -> [Operational Systems](operational-systems/README.md)
+- unstable live systems and architecture cleanup -> [Architecture and Stabilization](architecture-stabilization/README.md)
+- reporting, planning, and optimization logic -> [Data, Analytics, and Optimization](data-analytics-optimization/README.md)
+
 ## Core Directions
 
 - [Backend and Product Platforms](backend-product-platforms/README.md)
@@ -29,3 +37,10 @@ The goal is to make the public structure:
 - easy to understand
 - strong enough for larger projects
 - expandable without turning the main profile into a long generic landing page
+
+## Supporting Pages
+
+- [How We Work](../how-we-work/README.md)
+- [Engagement Models](../engagement-models/README.md)
+- [Who We Are For](../who-we-are-for/README.md)
+- [Case Studies](../case-studies/README.md)

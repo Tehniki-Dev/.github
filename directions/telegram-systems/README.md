@@ -2,6 +2,15 @@
 
 We build Telegram-connected products where bots, Mini Apps, backend services, notifications, payments, and support tooling need to work as one product flow.
 
+## Best Fit
+
+This direction is strongest for:
+
+- Telegram-first products
+- Mini Apps with real backend logic
+- commerce and conversion-sensitive user flows
+- products where Telegram is part of a broader operating system
+
 ## Problems We Solve
 
 - the Telegram layer is disconnected from the actual backend
@@ -9,6 +18,15 @@ We build Telegram-connected products where bots, Mini Apps, backend services, no
 - Mini App UX exists, but backend flow and operations are weak
 - support, notifications, and operator logic are handled manually
 - the product needs a Telegram-first conversion flow with real system control
+
+## What This Direction Usually Includes
+
+- bot and Mini App interaction logic
+- backend services behind Telegram flows
+- notification and event handling
+- support and operator tooling
+- payment-connected Telegram flows
+- product logic that must work in production, not just as a demo
 
 ## What We Build
 
@@ -19,12 +37,25 @@ We build Telegram-connected products where bots, Mini Apps, backend services, no
 - backend APIs behind Telegram products
 - admin and operator layers for Telegram-facing products
 
+## Typical Buyers
+
+- founders launching a Telegram-native product
+- teams adding a Telegram layer to an existing system
+- products where user conversion depends on flow quality inside Telegram
+- businesses that need Telegram plus backend plus operations, not only a bot
+
 ## Engagement Options
 
 - build from scratch
 - Telegram layer expansion for an existing product
 - backend restructuring behind a bot or Mini App
 - support/admin tooling around an active Telegram product
+
+## What This Is Not
+
+- not a throwaway demo bot
+- not isolated bot scripts without product thinking
+- not Telegram work detached from backend and operational realities
 
 ## Related Stack
 
@@ -45,6 +76,12 @@ We build Telegram-connected products where bots, Mini Apps, backend services, no
 ## Related Work
 
 - [Fitting Room Mini App](../../case-studies/fitting-room-mini-app.md)
+
+## Related Pages
+
+- [How We Work](../../how-we-work/README.md)
+- [Engagement Models](../../engagement-models/README.md)
+- [Who We Are For](../../who-we-are-for/README.md)
 
 ## Contact
 

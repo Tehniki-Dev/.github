@@ -43,3 +43,16 @@ What the client gets:
 - continuity
 - stronger system ownership
 - structured evolution instead of reactive patching
+
+## How To Choose
+
+- if scope is already clear -> `Developer-First`
+- if technical direction is missing -> `Architect-First`
+- if risk is high and the system state is unclear -> `Audit-First`
+- if the product will evolve across multiple phases -> `Long-Term Technical Partner`
+
+## Related Pages
+
+- [How We Work](../how-we-work/README.md)
+- [Who We Are For](../who-we-are-for/README.md)
+- [Tenders and Enterprise Readiness](../tenders/README.md)
