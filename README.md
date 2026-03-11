@@ -5,6 +5,7 @@ This repository contains the public organization profile structure for `TEHNIKI`
 ## Main Entry Points
 
 - [Organization Profile README](profile/README.md)
+- [Company Profile](company/README.md)
 - [Directions](directions/README.md)
 - [How We Work](how-we-work/README.md)
 - [Engagement Models](engagement-models/README.md)
@@ -17,6 +18,7 @@ This repository contains the public organization profile structure for `TEHNIKI`
 The repository is structured as a public trust surface:
 
 - main profile as the identity layer
+- company profile as the organizational layer
 - direction pages as the specialization layer
 - case studies as the proof layer
 - delivery and engagement pages as the maturity layer

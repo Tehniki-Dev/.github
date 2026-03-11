@@ -80,6 +80,7 @@ Telegram-facing product focused on Mini App UX, backend flow, and conversion-ori
 
 ## Links Deeper
 
+- [Company Profile](../company/README.md)
 - [Directions](../directions/README.md)
 - [How We Work](../how-we-work/README.md)
 - [Engagement Models](../engagement-models/README.md)
