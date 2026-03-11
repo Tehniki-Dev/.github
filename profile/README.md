@@ -1,6 +1,8 @@
 # TEHNIKI
 
-Engineering studio founded by operators and builders for web applications, Telegram systems, operational platforms, and decision-support systems.
+Engineering studio for web applications, Telegram systems, operational platforms, and decision-support systems.
+
+Built by founders with hands-on operational and engineering experience.
 
 We build systems where frontend, backend, databases, infrastructure, deployment, product operations, and analytics need to work as one product.
 

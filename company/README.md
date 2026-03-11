@@ -2,7 +2,9 @@
 
 ## Overview
 
-TEHNIKI is an engineering studio founded by operators and builders for web applications, Telegram systems, operational platforms, and decision-support systems.
+TEHNIKI is an engineering studio for web applications, Telegram systems, operational platforms, and decision-support systems.
+
+It was built by founders with hands-on operational and engineering experience.
 
 We work on systems where frontend, backend, databases, infrastructure, deployment, product logic, operations, analytics, and control layers all matter at the same time.
 
