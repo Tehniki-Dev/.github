@@ -1,6 +1,7 @@
+
 # TEHNIKI
 
-Engineering studio for product platforms, Telegram systems, backend-heavy web applications, data and analytics systems, AI operations, and infrastructure-aware delivery.
+Engineering studio for product platforms, Telegram systems, backend-heavy web applications, data and analytics systems, AI and optimization systems, and infrastructure-aware delivery.
 
 We build products where backend logic, product interface, admin control, billing, integrations, analytics, and day-to-day operations need to work as one system.
 
@@ -22,7 +23,7 @@ Remote / Worldwide
 - admin panels, billing systems, and client portals
 - real-time and event-driven services
 - data platforms, analytics layers, and reporting systems
-- AI workflow systems and operational automation
+- AI workflow systems, optimization engines, and operational automation
 - infrastructure-aware products with control layers and visibility
 
 ## Best-Fit Project Types
@@ -37,6 +38,7 @@ We are a strong fit for projects such as:
 - subscription, billing, entitlement, and customer lifecycle systems
 - analytics products with data ingestion, transformation, dashboards, and business visibility
 - decision-support systems with reporting, monitoring, operational metrics, and control panels
+- planning and optimization systems with constraints, shared resources, deadlines, and capacity limits
 - content operations platforms with approval flows, publishing, and AI-assisted generation
 - audit, refactor, stabilization, and phase-based recovery work
 - integration-heavy systems connected to CRM, payment, messaging, analytics, or external service APIs
@@ -51,6 +53,7 @@ We work especially well when one of these situations is true:
 - a designer has flows or Figma screens and needs an engineering team to turn them into a working system
 - an operating business needs a control layer with admin roles, billing, logs, permissions, reporting, and support workflows
 - a team already has data but lacks a usable analytics layer for operations, management, or client reporting
+- a production or operations team needs a planning model that reflects real constraints, not abstract flowcharts
 - an existing product needs cleanup before new features can be added safely
 
 ## Studio Focus
@@ -61,7 +64,7 @@ We work especially well when one of these situations is true:
 - Telegram products and Mini Apps
 - billing, admin, and operational platforms
 - data pipelines, analytics systems, and reporting layers
-- AI pipelines and agent-based automation
+- AI pipelines, optimization engines, and agent-based automation
 - internal tools and process automation
 - refactoring and stabilization of live systems
 
@@ -71,6 +74,7 @@ We work especially well when one of these situations is true:
 - TypeScript, Node.js, React, Next.js
 - PostgreSQL, Redis, MongoDB, ClickHouse
 - Celery, Kafka, WebSockets, MQTT
+- OR-Tools, planning and scheduling logic
 - Airflow, n8n, LangGraph
 - Docker, Nginx, CI/CD, Linux, Kubernetes
 - Aiogram, Telethon, Pyrogram, Telegram Mini App SDK
@@ -92,6 +96,22 @@ Typical scopes include:
 - analytics modules inside admin systems and backoffice tools
 
 We treat analytics as part of product architecture, not as a disconnected reporting afterthought.
+
+## AI, Optimization, and Decision Systems
+
+We build systems where AI, optimization, and operational logic work together to support real business decisions, not just generate outputs.
+
+Typical scopes include:
+
+- planning engines with hard and soft constraints
+- production scheduling and job-shop optimization
+- resource allocation across shared machines, teams, or locations
+- decision-support tools for operations, logistics, and dispatch
+- shelf-life, deadline, routing, and capacity-aware planning models
+- AI-assisted control layers for scenario comparison and operator decisions
+- Excel exports, reporting, and Gantt-style execution views for real operations
+
+These systems matter when the model has to reflect how the operation actually works: equipment limits, maintenance windows, shared semi-finished resources, multiple shipping waves, bottlenecks, and real execution tradeoffs.
 
 ## AI Systems and Automation
 
@@ -127,6 +147,9 @@ Telegram-facing products where user interaction, backend flow, conversion logic,
 ### Data Platforms and Analytics Layers
 Systems for ingestion, transformation, event processing, reporting, dashboard logic, operational visibility, and business decision support.
 
+### Industrial Planning and Optimization Systems
+Systems for production scheduling, capacity planning, shared-resource coordination, operational modeling, and decision support under real constraints.
+
 ### AI Content and Automation Systems
 Pipeline-based systems for content generation, planning, asset control, moderation, approval, and automated publishing across distribution channels.
 
@@ -139,6 +162,7 @@ Admin platforms, control panels, operator dashboards, reporting systems, and wor
 - Telegram-based platforms with real-time workflows and operational tooling
 - operator dashboards, dispatch panels, and multi-role business applications
 - analytics backends with internal dashboards, reporting layers, and operational metrics
+- planning and optimization systems with Excel outputs, reports, and execution views
 - AI-assisted content pipelines with approval and publishing workflows
 - infrastructure products with node, traffic, and customer control
 - internal CRM, support, routing, and backoffice systems
@@ -152,7 +176,7 @@ We usually enter projects through one of these paths:
 - technical audit before scope and pricing
 - refactor of an overloaded product core
 - stabilization of an already running system
-- expansion of an existing product with new backend, admin, automation, or analytics layers
+- expansion of an existing product with new backend, admin, automation, analytics, or optimization layers
 
 ## How We Deliver
 
@@ -182,6 +206,7 @@ Telegram-facing product focused on Mini App UX, backend flow, and conversion-ori
 - a Telegram product that has to work in production, not only in demo mode
 - a control layer with admin panel, permissions, billing, logs, and operational visibility
 - a data and reporting layer that turns product activity into usable decisions
+- an optimization or planning model that has to reflect real operational constraints
 - an engineering partner who can turn product complexity into structured execution
 
 ## Active Directions
@@ -193,6 +218,7 @@ Alongside confirmed work, we are actively developing and expanding across:
 - gaming-related product systems
 - analytics platforms
 - data and reporting systems
+- AI-assisted planning and optimization systems
 - private client delivery
 
 We keep the public profile intentionally focused. Some active and client-specific systems remain private until they can be shown properly.
@@ -203,4 +229,4 @@ We prefer products where engineering quality is part of the product itself: clea
 
 If a system needs backend discipline, operational transparency, serious implementation, and frontend delivery that respects product complexity, that is our zone.
 
-If you are building a Telegram product, SaaS platform, analytics system, AI workflow system, internal business tool, operational dashboard, infrastructure-heavy service, or a design-led product that now needs strong engineering behind it, contact us directly.
+If you are building a Telegram product, SaaS platform, analytics system, AI workflow system, optimization engine, internal business tool, operational dashboard, infrastructure-heavy service, or a design-led product that now needs strong engineering behind it, contact us directly.
