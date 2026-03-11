@@ -68,6 +68,8 @@ We are strongest when entering products through:
 
 ## Public Structure
 
+- [Why TEHNIKI](../why-tehniki/README.md)
+- [What We Do Not Do](../what-we-do-not-do/README.md)
 - [Directions](../directions/README.md)
 - [How We Work](../how-we-work/README.md)
 - [Engagement Models](../engagement-models/README.md)

@@ -51,6 +51,8 @@ We prefer clear scope boundaries, visible execution stages, and explicit deliver
 
 ## Related Pages
 
+- [Why TEHNIKI](../why-tehniki/README.md)
+- [What We Do Not Do](../what-we-do-not-do/README.md)
 - [Engagement Models](../engagement-models/README.md)
 - [Who We Are For](../who-we-are-for/README.md)
 - [Tenders and Enterprise Readiness](../tenders/README.md)

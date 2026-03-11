@@ -41,6 +41,8 @@ The goal is to make the public structure:
 
 ## Supporting Pages
 
+- [Why TEHNIKI](../why-tehniki/README.md)
+- [What We Do Not Do](../what-we-do-not-do/README.md)
 - [How We Work](../how-we-work/README.md)
 - [Engagement Models](../engagement-models/README.md)
 - [Who We Are For](../who-we-are-for/README.md)

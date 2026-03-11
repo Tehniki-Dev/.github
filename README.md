@@ -6,6 +6,8 @@ This repository contains the public organization profile structure for `TEHNIKI`
 
 - [Organization Profile README](profile/README.md)
 - [Company Profile](company/README.md)
+- [Why TEHNIKI](why-tehniki/README.md)
+- [What We Do Not Do](what-we-do-not-do/README.md)
 - [Directions](directions/README.md)
 - [How We Work](how-we-work/README.md)
 - [Engagement Models](engagement-models/README.md)
