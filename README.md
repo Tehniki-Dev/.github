@@ -13,7 +13,7 @@ This repository contains the public organization profile structure for `TEHNIKI`
 - [Case Studies](case-studies/README.md)
 - [Tenders and Enterprise Readiness](tenders/README.md)
 
-## Founder Profile
+## Lead Engineering Profile
 
 - GitHub: [github.com/vitalivo](https://github.com/vitalivo)
 

@@ -2,14 +2,17 @@
 
 ## Overview
 
-TEHNIKI is a founder-led engineering studio for web applications, Telegram systems, operational platforms, and decision-support systems.
+TEHNIKI is an engineering studio founded by operators and builders for web applications, Telegram systems, operational platforms, and decision-support systems.
 
 We work on systems where frontend, backend, databases, infrastructure, deployment, product logic, operations, analytics, and control layers all matter at the same time.
 
-Founder / Lead Engineer:
+Founding Team:
 
-- Vitaliy
-- GitHub: [github.com/vitalivo](https://github.com/vitalivo)
+- TEHNIKI founders stay close to product, delivery, and technical direction
+
+Lead engineering profile:
+
+- [github.com/vitalivo](https://github.com/vitalivo)
 
 ## What We Are Best At
 

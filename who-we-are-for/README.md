@@ -35,4 +35,4 @@ The project needs real engineering judgment, not only implementation capacity.
 - [How We Work](../how-we-work/README.md)
 - [Engagement Models](../engagement-models/README.md)
 - [Directions](../directions/README.md)
-- [Founder GitHub](https://github.com/vitalivo)
+- [Lead Engineering Profile](https://github.com/vitalivo)
