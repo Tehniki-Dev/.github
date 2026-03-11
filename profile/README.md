@@ -14,6 +14,7 @@ TEHNIKI is a product engineering studio focused on systems with real operational
 
 - backend and product platforms
 - Telegram-connected systems
+- frontend systems for real product workflows
 - admin, billing, and control layers
 - analytics, reporting, and optimization logic
 - architecture, recovery, and phased system growth
@@ -26,6 +27,7 @@ Founder / Lead Engineer:
 ## What We Build
 
 - backend and product platforms
+- frontend and product interfaces
 - Telegram systems
 - operational systems
 - architecture and stabilization work
@@ -66,13 +68,13 @@ More: [How We Work](../how-we-work/README.md) · [Engagement Models](../engageme
 ## Core Directions
 
 ### [Backend and Product Platforms](../directions/backend-product-platforms/README.md)
-Backend-heavy products, SaaS-style systems, integrations, platform logic, and delivery for products that need a serious technical core.
+Backend-heavy products, SaaS-style systems, integrations, platform logic, and frontend delivery for products that need a serious technical core.
 
 ### [Telegram Systems](../directions/telegram-systems/README.md)
 Bots, Mini Apps, Telegram-facing workflows, commerce flows, notifications, and backend-connected Telegram products.
 
 ### [Operational Systems](../directions/operational-systems/README.md)
-Admin panels, operator dashboards, internal tools, support workflows, reporting layers, and control platforms.
+Admin panels, operator dashboards, internal tools, support workflows, reporting layers, and control platforms with clear operator-facing interfaces.
 
 ### [Architecture and Stabilization](../directions/architecture-stabilization/README.md)
 Audits, refactoring, recovery work, live-system cleanup, and structured technical direction for overloaded products.

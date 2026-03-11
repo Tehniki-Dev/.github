@@ -1,6 +1,6 @@
 # Backend and Product Platforms
 
-We design, expand, and stabilize backend-heavy products where APIs, business logic, workflows, integrations, and operational constraints have to work as one system.
+We design, expand, and stabilize backend-heavy products where APIs, business logic, workflows, integrations, frontend interfaces, and operational constraints have to work as one system.
 
 ## Best Fit
 
@@ -8,6 +8,7 @@ This direction is strongest for:
 
 - SaaS and platform products
 - products with a serious backend core
+- products with serious workflow-heavy interfaces
 - systems where integrations and internal logic are tightly coupled
 - products that need a cleaner technical foundation before scaling
 
@@ -15,6 +16,7 @@ This direction is strongest for:
 
 - the backend grew faster than the architecture
 - integrations became fragile or difficult to extend
+- the frontend exists, but it does not carry product logic well
 - product logic is spread across too many disconnected services
 - the first version is no longer reliable enough for growth
 - the team needs a stronger technical core before scaling
@@ -22,6 +24,7 @@ This direction is strongest for:
 ## What This Direction Usually Includes
 
 - platform backend architecture
+- frontend implementation for real product flows
 - product workflow logic
 - account and role-based system behavior
 - integration layers
@@ -33,6 +36,7 @@ This direction is strongest for:
 - backend application cores
 - API layers
 - SaaS and client-facing product platforms
+- product interfaces tied to backend logic
 - business workflow logic
 - integration-heavy services
 - billing-backed product functionality
@@ -41,6 +45,7 @@ This direction is strongest for:
 
 - founders with a growing live product
 - teams that need stronger backend ownership
+- teams that need frontend delivery without losing system discipline
 - products with fragile business logic under growth pressure
 - businesses replacing disconnected tools with a real platform
 
@@ -62,6 +67,7 @@ This direction is strongest for:
 
 - Python, FastAPI, Django
 - TypeScript, Node.js
+- React, Next.js
 - PostgreSQL, Redis, MongoDB
 - Celery, Kafka, WebSockets
 - Docker, CI/CD, Linux
@@ -71,6 +77,7 @@ This direction is strongest for:
 - SaaS products
 - customer portals
 - backend-heavy web applications
+- workflow-heavy product interfaces
 - integration-based product systems
 - products with roles, accounts, and workflow logic
 

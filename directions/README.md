@@ -27,6 +27,7 @@ These themes are already part of the studio scope, but in V1 they live inside th
 - billing, admin, and client portals
 - design-to-production implementation
 - integration-heavy business systems
+- frontend systems for real product workflows
 
 ## Why This Structure
 

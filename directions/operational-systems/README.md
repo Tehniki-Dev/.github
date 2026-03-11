@@ -8,6 +8,7 @@ This direction is strongest for:
 
 - businesses that need a real control layer
 - products that already have users but weak internal tooling
+- teams that need serious operator-facing interfaces, not only backend logic
 - teams that operate through manual coordination and fragmented systems
 - operational workflows that need structure, visibility, and accountability
 
@@ -15,6 +16,7 @@ This direction is strongest for:
 
 - critical operations still run through spreadsheets and manual coordination
 - admin workflows are fragmented
+- operator interfaces are too weak for daily use
 - support, billing, reporting, and control are spread across too many tools
 - the business needs a real control layer, not another temporary dashboard
 - the product has users, but the team behind it lacks operational visibility
@@ -23,6 +25,7 @@ This direction is strongest for:
 
 - admin and backoffice systems
 - operator dashboards
+- internal workflow interfaces
 - support and control workflows
 - permissions and roles
 - reporting and visibility layers
@@ -33,6 +36,7 @@ This direction is strongest for:
 - admin panels
 - operator dashboards
 - internal tools
+- operator-facing product interfaces
 - reporting layers
 - permissions and control flows
 - support and backoffice systems

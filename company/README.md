@@ -15,6 +15,7 @@ Founder / Lead Engineer:
 
 - backend and product platforms
 - Telegram-connected systems
+- frontend systems for real workflows
 - operational systems and internal control layers
 - architecture and stabilization work
 - analytics, reporting, and optimization systems
