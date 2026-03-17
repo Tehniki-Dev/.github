@@ -18,11 +18,20 @@ This page is the public map of TEHNIKI capabilities.
 - [Architecture and Stabilization](architecture-stabilization/README.md)
 - [Data, Analytics, and Optimization](data-analytics-optimization/README.md)
 
+## Specialized Vertical Pages
+
+- [Automation Engineering](automation-engineering/README.md)
+- [AI Visual Production](ai-visual-production/README.md)
+
 ## Expansion Layers Inside the Core
 
 These themes are already part of the studio scope, but in V1 they live inside the five main directions:
 
 - AI workflow systems
+- automation engineering with n8n and AI
+- parser / monitoring systems
+- VPN and network-backed product lines
+- AI visual production for brands and marketplaces
 - infrastructure-aware product work
 - billing, admin, and client portals
 - design-to-production implementation
