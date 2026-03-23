@@ -35,6 +35,17 @@ Typical outcome:
 - reduced delivery chaos
 - easier budget and priority control
 
+## Curated Delivery
+
+Used when the client wants a stronger coordination layer between business requests and engineering execution without turning the project into management overhead.
+
+Typical outcome:
+
+- clarified requests before implementation starts
+- visible Kanban-based execution tracking
+- clearer acceptance against agreed scope
+- fewer delivery disputes and less communication noise
+
 ## Long-Term Technical Partner Model
 
 Used when the product is expected to evolve across multiple phases and needs continuity rather than one-off execution.

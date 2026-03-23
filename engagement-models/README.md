@@ -71,12 +71,31 @@ What the client gets:
 - stronger system ownership
 - structured evolution instead of reactive patching
 
+## Curated Delivery
+
+This is not a separate project type.
+It is a delivery leadership layer that can sit on top of implementation, phased delivery, or longer-term work when the client wants less management overhead and clearer control over scope, progress, and acceptance.
+
+Typical situations:
+
+- the client does not want to translate every request directly into engineering language
+- scope can drift if clarifications are handled only in chat
+- acceptance risk is high unless execution stays tied to agreed requirements
+
+What the client gets:
+
+- clearer request shaping before development starts
+- visible progress through Kanban-style board tracking
+- tighter execution control against agreed scope
+- fewer disputes at delivery and handover
+
 ## How To Choose
 
 - if scope is already clear -> `Developer-First`
 - if technical direction is missing -> `Architect-First`
 - if risk is high and the system state is unclear -> `Audit-First`
 - if the product will evolve across multiple phases -> `Long-Term Technical Partner`
+- if the client wants less coordination burden and clearer acceptance -> `Curated Delivery`
 
 ## Related Pages
 

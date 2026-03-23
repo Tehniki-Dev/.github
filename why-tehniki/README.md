@@ -24,6 +24,17 @@ We care about:
 - operational visibility
 - safer growth over time
 
+### We can absorb the coordination burden
+
+Many clients should not have to act as the translator between business intent and engineering execution.
+
+We can keep that coordination layer on our side:
+
+- clarifying requests
+- shaping scope before implementation
+- tracking progress visibly
+- keeping acceptance tied to what was actually agreed
+
 ### We can enter through different levels of clarity
 
 Some projects are ready for implementation.

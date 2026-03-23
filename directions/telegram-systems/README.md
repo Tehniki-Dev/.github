@@ -10,6 +10,7 @@ This direction is strongest for:
 - Mini Apps with real backend logic
 - commerce and conversion-sensitive user flows
 - products where Telegram is part of a broader operating system
+- products where Telegram acts as a control surface for infrastructure or edge behavior
 
 ## Problems We Solve
 
@@ -26,6 +27,7 @@ This direction is strongest for:
 - notification and event handling
 - support and operator tooling
 - payment-connected Telegram flows
+- brokered execution paths behind Telegram commands when the product reaches devices or infrastructure
 - product logic that must work in production, not just as a demo
 
 ## What We Build
@@ -72,10 +74,12 @@ This direction is strongest for:
 - Telegram account and notification systems
 - operator tools behind Telegram products
 - Telegram products with backend APIs and admin control
+- Telegram-controlled infrastructure and edge systems
 
 ## Related Work
 
 - [Fitting Room Mini App](../../case-studies/fitting-room-mini-app.md)
+- [KidsWifi Router](../../case-studies/kidswifi-router.md)
 
 ## Related Pages
 

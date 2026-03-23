@@ -15,8 +15,11 @@ For larger or more formal engagements, predictability matters as much as technic
 - discovery or audit before heavy implementation
 - milestone-based execution
 - regular progress reporting
+- request clarification before execution drift appears
+- visible board-based tracking for work stages and status
 - explicit handling of blockers and dependencies
 - change management through clarified scope rather than hidden drift
+- acceptance tied to agreed scope rather than informal chat expectations
 
 ## Goal
 

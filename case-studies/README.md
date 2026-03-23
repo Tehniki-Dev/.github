@@ -10,6 +10,7 @@ They work as proof anchors and will expand over time.
 - [Taxi Platform](taxi-platform.md)
 - [VPN Platform](vpn-platform.md)
 - [Fitting Room Mini App](fitting-room-mini-app.md)
+- [KidsWifi Router](kidswifi-router.md)
 - [Parser and Monitoring Systems](parser-monitoring.md)
 
 ## Structure Standard

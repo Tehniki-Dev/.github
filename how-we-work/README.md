@@ -23,6 +23,20 @@ We prefer to understand:
 - where the current system creates risk
 - which phase actually deserves implementation first
 
+### We add a curated delivery layer when the project needs it
+
+Some clients want direct access to engineers.
+Some need a clearer coordination layer between business requests and implementation.
+
+When that layer is useful, we help with:
+
+- clarifying requests before they become development tasks
+- translating scope into visible execution stages
+- keeping work transparent through Kanban-style boards and status tracking
+- controlling acceptance against what was actually agreed
+
+This reduces coordination burden on the client side and helps avoid unnecessary disputes at handover.
+
 ### We prefer phased execution over blind rewrites
 
 When a live product is already under load, uncontrolled rewrites create avoidable risk.

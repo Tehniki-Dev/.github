@@ -5,22 +5,23 @@ This page is the public map of TEHNIKI capabilities.
 ## Navigate by Business Need
 
 - products that need a stronger technical core -> [Backend and Product Platforms](backend-product-platforms/README.md)
-- Telegram-facing products and Mini Apps -> [Telegram Systems](telegram-systems/README.md)
 - internal control, admin, and operator workflows -> [Operational Systems](operational-systems/README.md)
 - unstable live systems and architecture cleanup -> [Architecture and Stabilization](architecture-stabilization/README.md)
 - reporting, planning, and optimization logic -> [Data, Analytics, and Optimization](data-analytics-optimization/README.md)
+- workflow automation with AI, orchestration, and external service integration -> [Automation Engineering](automation-engineering/README.md)
+- Telegram-facing products and Mini Apps -> [Telegram Systems](telegram-systems/README.md)
 
 ## Core Directions
 
 - [Backend and Product Platforms](backend-product-platforms/README.md)
-- [Telegram Systems](telegram-systems/README.md)
 - [Operational Systems](operational-systems/README.md)
 - [Architecture and Stabilization](architecture-stabilization/README.md)
 - [Data, Analytics, and Optimization](data-analytics-optimization/README.md)
-
-## Specialized Vertical Pages
-
 - [Automation Engineering](automation-engineering/README.md)
+
+## Additional Product Lines
+
+- [Telegram Systems](telegram-systems/README.md)
 - [AI Visual Production](ai-visual-production/README.md)
 
 ## Expansion Layers Inside the Core
